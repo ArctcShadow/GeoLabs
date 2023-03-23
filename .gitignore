@@ -127,4 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.example_dataset
+.example_dataset.geojson
+/example_dataset.geojson
+example_dataset.geojson

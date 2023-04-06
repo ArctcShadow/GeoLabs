@@ -130,3 +130,6 @@ dmypy.json
 .example_dataset.geojson
 /example_dataset.geojson
 example_dataset.geojson
+soil_moisture.tif
+polygon.geojson
+soil_moisture.tif.aux.xml

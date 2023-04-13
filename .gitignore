@@ -133,3 +133,8 @@ example_dataset.geojson
 soil_moisture.tif
 polygon.geojson
 soil_moisture.tif.aux.xml
+clay.tif
+density.tif
+sand.tif
+soil_moisture.tif
+field_centroids.geojson

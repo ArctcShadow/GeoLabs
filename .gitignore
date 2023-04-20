@@ -138,3 +138,5 @@ density.tif
 sand.tif
 soil_moisture.tif
 field_centroids.geojson
+spatial_data
+resampled

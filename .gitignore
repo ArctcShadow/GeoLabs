@@ -140,3 +140,4 @@ soil_moisture.tif
 field_centroids.geojson
 spatial_data
 resampled
+field_data.geojson

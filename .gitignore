@@ -141,3 +141,6 @@ field_centroids.geojson
 spatial_data
 resampled
 field_data.geojson
+node_modules
+package-lock.json
+package.json
